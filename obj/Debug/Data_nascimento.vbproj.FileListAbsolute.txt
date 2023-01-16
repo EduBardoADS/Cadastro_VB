@@ -1,0 +1,52 @@
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.exe.config
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.exe
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.pdb
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.xml
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.Form1.resources
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.Resources.resources
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.GenerateResource.Cache
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.exe
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.xml
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.pdb
+F:\Data_nascimento\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.exe.config
+F:\Data_nascimento\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.exe
+F:\Data_nascimento\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.pdb
+F:\Data_nascimento\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.xml
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.AssemblyReference.cache
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.SuggestedBindingRedirects.cache
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.Resources.resources
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.GenerateResource.cache
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.CoreCompileInputs.cache
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.exe
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.xml
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.pdb
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.segundoFormulado.resources
+F:\Data_nascimento\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.terceiroFormulario.resources
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.AssemblyReference.cache
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.SuggestedBindingRedirects.cache
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.segundoFormulado.resources
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.terceiroFormulario.resources
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.GenerateResource.cache
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.exe
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.xml
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.pdb
+C:\System33\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.exe.config
+C:\System33\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.exe
+C:\System33\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.pdb
+C:\System33\Data_nascimento\Data_nascimento\bin\Debug\Data_nascimento.xml
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.Resources.resources
+C:\System33\Data_nascimento\Data_nascimento\obj\Debug\Data_nascimento.vbproj.CoreCompileInputs.cache
+F:\Nova pasta\Data_nascimento\bin\Debug\Data_nascimento.exe.config
+F:\Nova pasta\Data_nascimento\bin\Debug\Data_nascimento.exe
+F:\Nova pasta\Data_nascimento\bin\Debug\Data_nascimento.pdb
+F:\Nova pasta\Data_nascimento\bin\Debug\Data_nascimento.xml
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.vbproj.AssemblyReference.cache
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.vbproj.SuggestedBindingRedirects.cache
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.segundoFormulado.resources
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.Resources.resources
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.terceiroFormulario.resources
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.vbproj.GenerateResource.cache
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.vbproj.CoreCompileInputs.cache
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.exe
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.xml
+F:\Nova pasta\Data_nascimento\obj\Debug\Data_nascimento.pdb
